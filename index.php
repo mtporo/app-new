@@ -30,11 +30,11 @@
            <br> <br> <br>
             </p>
             <a href="https://wa.me/212671272638" class="main-btn">إستشر الان عبر واتساب!</a>
-            <div class="social-icons">
+        <!--    <div class="social-icons">
                 <a href="#"><i class="fab fa-linkedin"></i></a>
                 <a href="#"><i class="fab fa-twitter"></i></a>
                 <a href="#"><i class="fab fa-instagram"></i></a>
-                <a href="#"><i class="fab fa-youtube"></i></a>
+                <a href="#"><i class="fab fa-youtube"></i></a> -->
             </div>
         </div>
     </section>
@@ -168,7 +168,7 @@
                 </div>
                 <div class="info">
                     <h3>Email</h3>
-                    <p>Ahmedzaidi@gmail.com</p>
+                    <p>Ahmedaz0594010@gmail.com</p>
                 </div>
             </div>
         </div>
