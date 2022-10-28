@@ -168,7 +168,7 @@
                 </div>
                 <div class="info">
                     <h3>Email</h3>
-                    <p>Ahmedaz0594010@gmail.com</p>
+                    <p style= "font-size:20px;">Ahmedaz0594010@gmail.com</p>
                 </div>
             </div>
         </div>
