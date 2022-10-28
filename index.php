@@ -23,7 +23,7 @@
     <section class="main">
         <div>
            <!-- <h2>Hello, I'm Ahmed<br> -->
-               <h2> <span> المحامي المحلف أحمد الزيدي
+               <h2> <span> المحامي أحمد الزيدي
             </span></h2>
             <p style="color:white; font-size:20px;"> يمكنك الآن حجز إستشارتك القانونية مع المحامي المحلف / أحمد الزيدي <br>
 <br>
